@@ -1,0 +1,16 @@
+@import 'vars';
+@import 'fonts';
+@include font-face('Be Vietnam Pro', '../fonts/BeVietnamPro-Regular', 400);
+@include font-face('Be Vietnam Pro', '../fonts/BeVietnamPro-Medium', 500);
+@include font-face('Be Vietnam Pro', '../fonts/BeVietnamPro-SemiBold', 600);
+@include font-face('Be Vietnam Pro', '../fonts/BeVietnamPro-Bold', 700);
+@import 'settings';
+@import 'header';
+@import 'footer';
+@import 'home-page';
+@import 'courses-page';
+@import 'course-description-page';
+@import 'about-page';
+@import 'pricing-page';
+@import 'contact-page';
+@import 'auth-pages';
