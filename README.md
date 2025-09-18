@@ -6,11 +6,11 @@ Frontend:
 
 HTML5 (семантическая верстка, доступность)
 
-CSS3 (Flexbox, Grid, анимации, трансформации)
+SCSS
 
-Vanilla JavaScript ES6+ (модульная архитектура)
+JavaScript
 
-Swiper.js (карусели и слайдеры)
+Swiper.js (слайдер)
 
 Video.js (видео-плеер с кастомным оформлением)
 
